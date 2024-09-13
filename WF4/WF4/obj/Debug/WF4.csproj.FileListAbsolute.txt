@@ -1,0 +1,10 @@
+Z:\WF4\WF4\bin\Debug\WF4.exe.config
+Z:\WF4\WF4\bin\Debug\WF4.exe
+Z:\WF4\WF4\bin\Debug\WF4.pdb
+Z:\WF4\WF4\obj\Debug\WF4.csproj.AssemblyReference.cache
+Z:\WF4\WF4\obj\Debug\WF4.frmMain.resources
+Z:\WF4\WF4\obj\Debug\WF4.Properties.Resources.resources
+Z:\WF4\WF4\obj\Debug\WF4.csproj.GenerateResource.cache
+Z:\WF4\WF4\obj\Debug\WF4.csproj.CoreCompileInputs.cache
+Z:\WF4\WF4\obj\Debug\WF4.exe
+Z:\WF4\WF4\obj\Debug\WF4.pdb
